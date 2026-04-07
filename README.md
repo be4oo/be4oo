@@ -1,16 +1,16 @@
 # Hey, I'm Beshoy 👋
 
-I build things that span hardware and software — from ESP32 firmware to LLM pipelines.
+I'm a hybrid engineer and tech executive who operates across the full stack — from bare-metal firmware to cloud AI pipelines. I care about systems that actually ship: hardware that survives the real world, software that scales, and AI that delivers measurable outcomes instead of demos.
 
-Currently: **Head of Technology @ CardoO** · Building **LegsGo**, a robotic exoskeleton for lower-limb rehabilitation.
+My background spans mechatronics, embedded systems, ERP architecture, and applied AI — with an MBA layered on top for the business side. I've led engineering teams, launched products in international markets, and built everything from motor control firmware to production RAG pipelines.
 
 ---
 
 ### 🔭 What I'm working on
 
-- **LegsGo** — robotic exoskeleton with ESP32 firmware, BLE control, and offline-first medical data sync
-- **AI automation pipelines** — RAG (Pinecone), n8n workflows, agentic systems in production
-- **Odoo 19 ERP architecture** — supply chain, custom modules, and GTM infrastructure
+- **Robotics & embedded systems** — designing motor control architectures, BLE communication layers, and offline-first data sync for resource-constrained environments
+- **Applied AI** — building RAG pipelines, agentic workflows, and LLM automations that reduce real operational costs
+- **ERP & operations infrastructure** — architecting custom ERP workflows that connect supply chain, data, and product velocity
 
 ### 🛠 Tech I reach for
 
